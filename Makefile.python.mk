@@ -18,4 +18,4 @@
 #
 
 python-requirements:
-	pip install -r ${SRC_ROOT}/requirements.txt
+	pip install -r ${SRC_ROOT}/requirements.txt --ignore-installed
